@@ -62,7 +62,9 @@
   
 ### What I´ll learn
  
-https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg
+<div align="center">  
+<a href="https://kali.org/" target="_blank"><img style="margin: 10px" src="[https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg](https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg)" alt="Kali" height="50" /></a>
+
 
 </td></tr></table>  
 
