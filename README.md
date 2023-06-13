@@ -1,6 +1,6 @@
 
 
-### <div align="center">I'm Pedro, a full-time full-stack freelance developer and eternal student 👨‍💻 since 2021 🚀</div>  
+### <div align="center">HI! I'm Pedro, a full-time full-stack freelance developer and eternal student 👨‍💻 since 2021 🚀</div>  
   
 
 - 🔭 I'm not working for a company right now  
